@@ -88,3 +88,6 @@ This code is designed to run in a **Jupyter Notebook**, an interactive computing
 ### **Conclusion**
 This project provides a simple yet effective implementation of sentiment analysis using Naïve Bayes in a Jupyter Notebook. By leveraging Scikit-learn’s powerful tools, the notebook efficiently processes text, builds a sentiment classification model, and evaluates its performance. This approach is highly scalable and can be extended with larger datasets or deep learning models like LSTMs or transformers for improved accuracy.
 
+#OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/a0fab2d3-bc6f-4cf2-b70e-a7a0a5840193)

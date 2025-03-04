@@ -12,7 +12,7 @@ DURATION: 4 WEEKS
 
 MENTOR: NEELA SANTOSH KUMAR
 
-Here’s a detailed 650-word description of the Jupyter Notebook code:
+
 
 ---
 
